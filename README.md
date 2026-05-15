@@ -41,11 +41,11 @@ lib/
 ```
 
 ## 🚀 Cara Menjalankan Aplikasi
-**1. Pastikan Flutter SDK sudah terinstal di perangkat Anda.**
-**2. Clone repository ini ke direktori lokal Anda.**
-**3. Buka terminal dan jalankan perintah flutter pub get untuk menginstal dependencies.**
-**4. Jalankan perintah flutter pub run build_runner build --delete-conflicting-outputs untuk men-generate file adapter Hive yang diperlukan.**
-**5. Jalankan aplikasi menggunakan perintah flutter run atau melalui debugger IDE (VS Code/Android Studio).**
+1. Pastikan Flutter SDK sudah terinstal di perangkat Anda.
+2. Clone repository ini ke direktori lokal Anda.
+3. Buka terminal dan jalankan perintah flutter pub get untuk menginstal dependencies.
+4. Jalankan perintah flutter pub run build_runner build --delete-conflicting-outputs untuk men-generate file adapter Hive yang diperlukan.
+5. Jalankan aplikasi menggunakan perintah flutter run atau melalui debugger IDE (VS Code/Android Studio).
 
 ## 👤 Identitas Pengembang
 Nama: Bayu Java Trenggana
